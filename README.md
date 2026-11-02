@@ -23,6 +23,10 @@ This project implements a complete basic RAG workflow:
 - Context construction and prompt engineering
 - Answer generation using Llama 3.2
 
+  ## Project Workflow
+
+![Project Workflow](assets/Screenshot (1409).png)
+
 ## Architecture
 
 ```mermaid
