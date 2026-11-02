@@ -25,7 +25,7 @@ This project implements a complete basic RAG workflow:
 
   ## Project Workflow
 
-![Project Workflow](assets/Screenshot (1409).png)
+![Project Working](assets/project-workflow.png)
 
 ## Architecture
 
